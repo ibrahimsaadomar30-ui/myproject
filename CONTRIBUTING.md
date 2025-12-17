@@ -1,3 +1,13 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit with clear messages.
+4. Push your branch to your forked repository.
+5. Open a Pull Request against the main branch of github-final-project.
+
 # Contributing to This Project
 
 Thank you for considering contributing to this project!  
