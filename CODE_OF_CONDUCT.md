@@ -1,3 +1,16 @@
+## Enforcement
+
+Violations of this Code of Conduct will be handled by the project maintainers. 
+Actions taken may include:
+
+- Warning the contributor via email or issue comment
+- Temporary or permanent suspension from contributing to the project
+- Reporting severe violations to relevant authorities if necessary
+
+Maintainers will review all reports and ensure enforcement is consistent and fair.
+
+
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
